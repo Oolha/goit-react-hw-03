@@ -1,0 +1,12 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 230px;
+  font-weight: 600;
+}
+.input {
+  padding: 5px 0 5px 10px;
+  border-radius: 5px;
+  border: none;
+}

@@ -1,0 +1,15 @@
+p {
+  margin: 0;
+}
+.btn {
+  background-color: #cecc78;
+  border: none;
+  padding: 5px;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #abaa60;
+}
+.icon {
+  margin-right: 5px;
+}

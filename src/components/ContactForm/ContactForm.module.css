@@ -1,0 +1,31 @@
+.form {
+  background-color: #ecefe8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  border: none;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 200px;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.btn {
+  padding: 5px;
+  width: 100px;
+  background-color: #cecc78;
+  border: none;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #abaa60;
+}
+.btnField {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

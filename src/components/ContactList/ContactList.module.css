@@ -1,0 +1,18 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+}
+.listItem {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #ecefe8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border: 1px solid #9c9a2d;
+
+  padding: 20px;
+}
